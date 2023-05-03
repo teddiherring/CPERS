@@ -40,7 +40,7 @@ jupyter notebook
 
 will open a Jupyter notebook in your web browser. You can now open the data processing notebook and start running the code.
 
-## Running the notebooks
+## Running the notebook
 
 You can run each cell in the notebook individually by pressing  `shift + enter`, or you can run the entire notebook by selecting `Cell`, `Run All` in the toolbar.
 

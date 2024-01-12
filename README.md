@@ -5,7 +5,7 @@ code to process permafrost ERT data from the CPERS database
 
 ## Contents
 
-This respository contains a [jupyter notebook](./data_processing_CPERS.ipynb) that contains code to process the data contained in the CPERS database. This data will be available soon in a Nordicana D publication.
+This respository contains a [jupyter notebook](./data_processing_CPERS.ipynb) that contains code to process the data contained in the CPERS database. This data is available in a [Nordicana D data publication](https://nordicana.cen.ulaval.ca/dpage.aspx?doi=45855XD-DC9883ABD609428B)
 
 ## Setup
 

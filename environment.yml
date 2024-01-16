@@ -6,7 +6,9 @@ channels:
 dependencies:
   - python=3.9  
   - pygimli=1.2.4
+  - jupyter
   - jupyterlab
   - pandas
   - matplotlib=3.3
+  - ipykernel
   - ipywidgets
